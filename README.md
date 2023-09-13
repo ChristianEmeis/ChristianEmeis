@@ -6,7 +6,7 @@ App and Backend Developer
 
 Currently focusing on developing Flutter Applications with self build Rust Backends.
 
-* 🌍  I'm based in Munich
+* 🌍  I'm based in Hamburg
 * ✉️  You can contact me at [christian.emeis@t-online.de](mailto:christian.emeis@t-online.de)
 * 🚀  I'm currently working on [SpaceTracer](http://play.google.com/store/apps/details?id=com.emeisdev.spacetracer)
 * 🧠  I'm learning Rust
